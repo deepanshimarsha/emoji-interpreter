@@ -7,7 +7,30 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😂": "Face with Tears of Joy",
+  "💀": "Skull",
+  "🎉": "Party Popper",
+  "😍": "Smiling Face with Heart-Eyes",
+  "👀": "Eyes",
+  "😉": "Winking Face",
+  "👇": "Backhand Index Pointing Down",
+  "🤔": "Thinking Face",
+  "🥰": "Smiling Face with Hearts",
+  "🤩": "Star-Struck",
+  "⭐": "Star",
+  "😭": "Loudly Crying Face",
+  "🥳": "Partying Face",
+  "🥺": "Pleading Face",
+  "🥲": "Smiling Face with Tear",
+  "🤍": "White Heart",
+  "🙏": "Folded Hands",
+  "🏁": "Chequered Flag",
+  "🚩": "Triangular Flag",
+  "🎌": "Crossed Flags",
+  "🏴": "Black Flag",
+  "🏳️‍🌈": "Rainbow Flag",
+  "🏳️‍⚧️": "Transgender Flag"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
